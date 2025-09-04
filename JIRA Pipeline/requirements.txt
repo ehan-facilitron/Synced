@@ -1,0 +1,3 @@
+jira
+google-cloud-bigquery
+python-dotenv
